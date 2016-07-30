@@ -4,6 +4,41 @@ authors:
 title: NLP Monsoon 2016 Syllabus
 ...
 
+-   Duration
+-   Format
+    -   Paper & Pen Exercises
+-   Course Timeline
+    -   Week 1
+        -   Class 1 : Introduction to NLP
+        -   Class 2 : Tokenization
+    -   Week 2
+        -   Class 1 : Language Models
+        -   Class 2 : Simple Smoothing
+    -   Week 3
+        -   Class 1 : Smoothing Continued
+        -   Class 2 : Text Classification & Naive Bayes
+    -   Week 4
+        -   Class 1 : Part of Speech & Tagging
+        -   Class 2 : Viterbi & Trellis
+    -   Week 5
+        -   Class 1 : Morphology
+        -   Class 2 : Statistical & Unsupervised Morphology
+    -   Week 6
+        -   Class 1 : Generative vs Discriminative Models
+        -   Class 2 : Chunking & Constituency
+    -   Week 7
+        -   Class 1 : Constituency Parsing
+        -   Class 2 : PCFGs & Induction
+    -   Week 8
+        -   Class 1 : Drawbacks of PCFGs and the Way Forward
+        -   Class 2 : Catchup Class
+    -   Week 9
+        -   Class 1 : Introduction to Dependency Parsing
+        -   Class 2 : Dependency parsing part two
+    -   Week 10
+        -   Class 1 : Lexical Semantics & Distributional Semantics
+-   Grading Scheme
+
 Duration
 ========
 
